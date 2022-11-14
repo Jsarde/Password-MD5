@@ -8,5 +8,5 @@ Controllo di SICUREZZA della PASSWORD
 - Presenza di almeno una lettera Minuscola
 - Presenza di almeno un carattere speciale 
 
-2.Presenza nel database di MD5online.it
-(controllo per verosimiglianza tramite la conversione della password in MD5)
+2.Presenza nel database di MD5online.it tramite Web Scraping, utilizzando la libreria BeautifulSoup
+(controllo per verosimiglianza, tramite la conversione della password usando la crittografia MD5)
