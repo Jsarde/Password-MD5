@@ -13,7 +13,7 @@ Una password è considerata sicura se:
 2. Non è presente nel database di MD5online.it 
    il programma effettua un controllo per verosimiglianza tra la password inserita (convertita con la crittografia MD5) 
    e quelle presenti nel sito. 
-   per maggiori info sull'MD5 --> https://it.wikipedia.org/wiki/MD5 
+   Per maggiori informazioni sull'MD5 --> https://it.wikipedia.org/wiki/MD5 
 
 
 La libreria utilizzata per effettuare il Web Scraping è BeautifulSoup
